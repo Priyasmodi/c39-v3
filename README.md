@@ -1,1 +1,2 @@
-# c39-v3
+# C39RV_SpeedRacer_TeacherActivity
+Teacher Activity
